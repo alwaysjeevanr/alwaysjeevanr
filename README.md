@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jeevan R
-- 👀 I’m interested in Programming, Android development and Machine learning and AI
-- 🌱 I’m currently learning Computer Science Engineering
+- 👀 I’m interested in Full Stack Web Development, Programming, Android development and Machine learning and AI
+- 🌱 I’m Computer Science Engineering Graduate
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jeevanjeevu233@gmail.com
