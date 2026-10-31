@@ -2,10 +2,10 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alwaysjeevanr/alwaysjeevanr/main/profile-assets/banner-dark.svg">
-  <img src="https://raw.githubusercontent.com/alwaysjeevanr/alwaysjeevanr/main/profile-assets/banner-light.svg" alt="Jeevan R, React Developer in Bengaluru, India" width="100%">
+  <img src="https://raw.githubusercontent.com/alwaysjeevanr/alwaysjeevanr/main/profile-assets/banner-light.svg" alt="Jeevan R, Full Stack Developer in Bengaluru, India" width="100%">
 </picture>
 
-I'm a **React Developer** at **Classroots Learning Innovations Private** in Bengaluru, India, with approximately one year of professional experience. I'm a Computer Science Engineering graduate who enjoys building modern web applications and scalable software solutions, working across the stack from React interfaces to Node.js APIs. I'm also interested in AI and machine learning.
+I'm a **Full Stack Developer** based in Bengaluru, India, working at **Classroots Learning Innovations Private** with approximately one year of professional experience. I'm a Computer Science Engineering graduate who enjoys building modern web applications and scalable software solutions, from React interfaces to Node.js APIs. I'm also learning and working on **AI and machine learning**, with projects ranging from deep learning to ML classification.
 
 ## Technology Stack
 
@@ -14,7 +14,7 @@ I'm a **React Developer** at **Classroots Learning Innovations Private** in Beng
   <img src="https://raw.githubusercontent.com/alwaysjeevanr/alwaysjeevanr/main/profile-assets/skills-light.svg" alt="Technology stack. Frontend: React, JavaScript, HTML5, CSS3, Bootstrap, Tailwind CSS, Vite. Backend: Node.js, Express.js, REST APIs. Database: MongoDB, MySQL. AI and ML: Python, TensorFlow, Keras, Scikit-learn, Flask. Tools: Git, GitHub." width="100%">
 </picture>
 
-<sub>What I use across my projects and work, not a proficiency ranking. Frontend is my core focus.</sub>
+<sub>What I use across my projects and work, not a proficiency ranking.</sub>
 
 ## Featured Projects
 
@@ -33,13 +33,15 @@ I'm a **React Developer** at **Classroots Learning Innovations Private** in Beng
 
 ### About
 
-**Interests:** React and modern frontend development · full-stack web development · JavaScript and TypeScript · backend development and API integration · AI and machine learning · building practical software products.
+**Interests:** full-stack web development · React and modern frontend development · JavaScript and TypeScript · backend development and API integration · building practical software products.
+
+**Currently learning and working on:** AI and machine learning.
 
 **Education:** Computer Science Engineering Graduate
 
 ### Professional Experience
 
-**React Developer**, Classroots Learning Innovations Private · Bengaluru, Karnataka, India · current role, approximately 1 year.
+**Software Developer**, Classroots Learning Innovations Private · Bengaluru, Karnataka, India · current role, approximately 1 year.
 
 ### GitHub Statistics
 
