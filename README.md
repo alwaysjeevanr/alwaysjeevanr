@@ -5,9 +5,11 @@
   Maintenance notes
   - Banner: capsule-render. Gradient is set with color=0:HEX,45:HEX,100:HEX
   - Badges: shields.io (logos come from simple-icons slugs)
-  - Stats / streak / activity graph: live data from third-party services
-    (github-readme-stats, streak-stats, github-readme-activity-graph).
-    They occasionally rate-limit; a refresh usually fixes a blank card.
+  - Stats + languages cards: generated daily by a GitHub Action
+    (.github/workflows/profile-summary-cards.yml) into profile-summary-card-output/
+    and served from this repo, so they don't depend on a third-party server.
+    Theme folder: github_dark (swap the folder name in the <img> paths to change it).
+  - Streak card: live from streak-stats.demolab.com.
   - Palette used throughout: bg 0d1117 | border 30363d | text c9d1d9 | accent 58a6ff
 -->
 
@@ -185,9 +187,9 @@ A private AI memory and continuity project designed to maintain reusable persona
 
 <div align="center">
 
-<img height="170" alt="Jeevan R's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=alwaysjeevanr&show_icons=true&hide_border=false&border_radius=10&bg_color=0d1117&border_color=30363d&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+<img width="48%" alt="Jeevan R's GitHub stats" src="./profile-summary-card-output/github_dark/3-stats.svg" />
 &nbsp;
-<img height="170" alt="Jeevan R's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwaysjeevanr&layout=compact&langs_count=6&hide_border=false&border_radius=10&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9" />
+<img width="48%" alt="Jeevan R's most used languages" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
 
 </div>
 
@@ -198,10 +200,6 @@ A private AI memory and continuity project designed to maintain reusable persona
 <div align="center">
 
 <img alt="Jeevan R's contribution streak" src="https://streak-stats.demolab.com?user=alwaysjeevanr&hide_border=false&border_radius=10&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" />
-
-<br /><br />
-
-<img alt="Jeevan R's contribution activity graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alwaysjeevanr&bg_color=0d1117&color=8b949e&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true&radius=10&custom_title=Contribution%20Activity&title_color=c9d1d9" />
 
 </div>
 
