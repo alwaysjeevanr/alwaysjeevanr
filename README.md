@@ -15,7 +15,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=170&section=header&color=0:0d1117,45:111a33,100:312e81&text=Jeevan%20R&fontColor=ffffff&fontSize=50&fontAlign=50&fontAlignY=42&desc=React%20Developer&descSize=20&descAlign=50&descAlignY=66" alt="Jeevan R — React Developer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=140&section=header&color=0:0d1117,45:111a33,100:312e81&text=Jeevan%20R&fontColor=ffffff&fontSize=50&fontAlign=50&fontAlignY=52" alt="Jeevan R — React Developer" width="100%" />
 
 **Building modern web applications and practical software, from React interfaces to full-stack systems.**
 
