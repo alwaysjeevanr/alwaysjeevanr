@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34220729/README.md)
 ::: {align="center"}
 # Hey, I'm Jeevan R. 👋
 
