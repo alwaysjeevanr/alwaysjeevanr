@@ -7,7 +7,7 @@
   <img src="https://raw.githubusercontent.com/alwaysjeevanr/alwaysjeevanr/main/profile-assets/banner-light.svg" alt="Jeevan R, Full Stack Developer in Bengaluru, India" width="100%">
 </picture>
 
-I'm a **Full Stack Developer** based in Bengaluru, India, working at **Classroots Learning Innovations Private** with approximately one year of professional experience. I'm a Computer Science Engineer[...]
+I'm a **Full Stack Developer** based in Bengaluru, India, working at **Classroots Learning Innovations Private** with approximately one year of professional experience. I'm a Computer Engineering graduate who enjoys building modern web applications and scalable software solutions, from React interfaces to Node.js APIs. I'm also learning and working on **AI and machine learning**, with projects ranging from deep learning to ML classification.
 
 ## Technology Stack
 
