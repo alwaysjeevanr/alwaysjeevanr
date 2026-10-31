@@ -1,8 +1,8 @@
 # Hi, I'm Jeevan R
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-assets/banner-dark.svg">
-  <img src="./profile-assets/banner-light.svg" alt="Jeevan R, React Developer in Bengaluru, India" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alwaysjeevanr/alwaysjeevanr/main/profile-assets/banner-dark.svg">
+  <img src="https://raw.githubusercontent.com/alwaysjeevanr/alwaysjeevanr/main/profile-assets/banner-light.svg" alt="Jeevan R, React Developer in Bengaluru, India" width="100%">
 </picture>
 
 I'm a **React Developer** at **Classroots Learning Innovations Private** in Bengaluru, India, with approximately one year of professional experience. I'm a Computer Science Engineering graduate who enjoys building modern web applications and scalable software solutions, working across the stack from React interfaces to Node.js APIs. I'm also interested in AI and machine learning.
@@ -10,8 +10,8 @@ I'm a **React Developer** at **Classroots Learning Innovations Private** in Beng
 ## Technology Stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-assets/skills-dark.svg">
-  <img src="./profile-assets/skills-light.svg" alt="Technology stack. Frontend: React, JavaScript, HTML5, CSS3, Bootstrap, Tailwind CSS, Vite. Backend: Node.js, Express.js, REST APIs. Database: MongoDB, MySQL. AI and ML: Python, TensorFlow, Keras, Scikit-learn, Flask. Tools: Git, GitHub." width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alwaysjeevanr/alwaysjeevanr/main/profile-assets/skills-dark.svg">
+  <img src="https://raw.githubusercontent.com/alwaysjeevanr/alwaysjeevanr/main/profile-assets/skills-light.svg" alt="Technology stack. Frontend: React, JavaScript, HTML5, CSS3, Bootstrap, Tailwind CSS, Vite. Backend: Node.js, Express.js, REST APIs. Database: MongoDB, MySQL. AI and ML: Python, TensorFlow, Keras, Scikit-learn, Flask. Tools: Git, GitHub." width="100%">
 </picture>
 
 <sub>What I use across my projects and work, not a proficiency ranking. Frontend is my core focus.</sub>
@@ -45,20 +45,20 @@ I'm a **React Developer** at **Classroots Learning Innovations Private** in Beng
 
 <p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg">
-  <img src="./profile-summary-card-output/github/3-stats.svg" alt="Jeevan R's GitHub stats" width="48%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alwaysjeevanr/alwaysjeevanr/main/profile-summary-card-output/github_dark/3-stats.svg">
+  <img src="https://raw.githubusercontent.com/alwaysjeevanr/alwaysjeevanr/main/profile-summary-card-output/github/3-stats.svg" alt="Jeevan R's GitHub stats" width="48%">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg">
-  <img src="./profile-summary-card-output/github/1-repos-per-language.svg" alt="Jeevan R's most used languages by repository" width="48%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alwaysjeevanr/alwaysjeevanr/main/profile-summary-card-output/github_dark/1-repos-per-language.svg">
+  <img src="https://raw.githubusercontent.com/alwaysjeevanr/alwaysjeevanr/main/profile-summary-card-output/github/1-repos-per-language.svg" alt="Jeevan R's most used languages by repository" width="48%">
 </picture>
 </p>
 
 ### Contribution Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg">
-  <img src="./profile-summary-card-output/github/0-profile-details.svg" alt="Jeevan R's GitHub profile details and contributions in the last year" width="98%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alwaysjeevanr/alwaysjeevanr/main/profile-summary-card-output/github_dark/0-profile-details.svg">
+  <img src="https://raw.githubusercontent.com/alwaysjeevanr/alwaysjeevanr/main/profile-summary-card-output/github/0-profile-details.svg" alt="Jeevan R's GitHub profile details and contributions in the last year" width="98%">
 </picture>
 
 </details>
@@ -69,7 +69,10 @@ I'm a **React Developer** at **Classroots Learning Innovations Private** in Beng
 
 <!--
   Maintenance notes
-  - Images live in this repo, so nothing depends on an outside server:
+  - Images live in this repo, so nothing depends on an outside server. They use full
+    raw.githubusercontent.com addresses (not ./relative paths) so tools that audit
+    pictures recognise them as GitHub-hosted. If the repo or default branch is ever
+    renamed, update the base address in each <picture>:
       profile-assets/                 banner + skills panel (light and dark SVGs)
       profile-summary-card-output/    stats cards, regenerated daily by
                                       .github/workflows/GitHub-Profile-Summary-Cards.yml
