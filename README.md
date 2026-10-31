@@ -1,19 +1,19 @@
 # Hi, I'm Jeevan R
 
-[![Profile Doctor 100 of 100](https://raw.githubusercontent.com/alwaysjeevanr/alwaysjeevanr/main/profile-assets/profile-doctor.svg)](https://tools.benibix.com/github/profile-readme-studio/app/?doctor=alwaysjeevanr)
+[![Profile Doctor 100 of 100 for Jeevan R's GitHub profile](https://raw.githubusercontent.com/alwaysjeevanr/alwaysjeevanr/main/profile-assets/profile-doctor.svg)](https://tools.benibix.com/github/profile-readme-studio/app/?doctor=...)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alwaysjeevanr/alwaysjeevanr/main/profile-assets/banner-dark.svg">
-  <img src="https://raw.githubusercontent.com/alwaysjeevanr/alwaysjeevanr/main/profile-assets/banner-light.svg" alt="Jeevan R, Full Stack Developer in Bengaluru, India" width="100%">
+  <img src="https://raw.githubusercontent.com/alwaysjeevanr/alwaysjeevanr/main/profile-assets/banner-light.svg" alt="Jeevan R banner showing a full stack developer based in Bengaluru, India" width="100%">
 </picture>
 
-I'm a **Full Stack Developer** based in Bengaluru, India, working at **Classroots Learning Innovations Private** with approximately one year of professional experience. I'm a Computer Engineering graduate who enjoys building modern web applications and scalable software solutions, from React interfaces to Node.js APIs. I'm also learning and working on **AI and machine learning**, with projects ranging from deep learning to ML classification.
+I'm a **Full Stack Developer** based in Bengaluru, India, working at **Classroots Learning Innovations Private** with approximately one year of professional experience. I'm a Computer Engineering graduate with a strong interest in creating practical, user-focused digital products.
 
 ## Technology Stack
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alwaysjeevanr/alwaysjeevanr/main/profile-assets/skills-dark.svg">
-  <img src="https://raw.githubusercontent.com/alwaysjeevanr/alwaysjeevanr/main/profile-assets/skills-light.svg" alt="Technology stack. Frontend: React, JavaScript, HTML5, CSS3, Bootstrap, Tailwind CSS[...]" 
+  <img src="https://raw.githubusercontent.com/alwaysjeevanr/alwaysjeevanr/main/profile-assets/skills-light.svg" alt="Technology stack graphic showing React, JavaScript, HTML5, CSS3, Bootstrap, Tailwind CSS, Node.js, Express, MongoDB, Python, TensorFlow, and related tools" width="100%">
 </picture>
 
 <sub>What I use across my projects and work, not a proficiency ranking.</sub>
@@ -23,8 +23,8 @@ I'm a **Full Stack Developer** based in Bengaluru, India, working at **Classroot
 | Project | What it is | Stack | Code |
 | :--- | :--- | :--- | :--- |
 | **PlanTheTrips** | Full-stack travel planning platform for discovering and planning vacations in India. | React, Tailwind CSS, Node.js, Express, MongoDB | [Repository](https://github.com/alwaysjeevanr/PlanTheTrips) |
-| **Job Recruitment Platform** | Full-stack recruitment application with job listings, search, applications, resume uploads and employer features. | React, Bootstrap, Vite, Node.js, Express, MongoDB | [Repository](https://github.com/alwaysjeevanr/JobRecruitmentPlatform) |
-| **Fiverr Clone** | Freelance marketplace project with user authentication, gigs, messaging, orders and reviews. | React, Vite, Node.js, Express, MongoDB | [Frontend](https://github.com/alwaysjeevanr/Fiverr-Clone) |
+| **Job Recruitment Platform** | Full-stack recruitment application with job listings, search, applications, resume uploads and employer features. | React, Bootstrap, Vite, Node.js, Express, MongoDB | [Repository](https://github.com/alwaysjeevanr/Job-Recruitment-Platform) |
+| **Fiverr Clone** | Freelance marketplace project with user authentication, gigs, messaging, orders and reviews. | React, Vite, Node.js, Express, MongoDB | [Frontend](https://github.com/alwaysjeevanr/fiverr-clone) |
 | **Plant Disease Predictive Analytics** | Deep learning project for plant disease detection. | Python, TensorFlow, Keras, Flask | [Repository](https://github.com/alwaysjeevanr/Disease-Predictive-Analytics) |
 | **Breast Cancer Detection** | Machine learning classification project. | Python, Scikit-learn | [Repository](https://github.com/alwaysjeevanr/Breast-Cancer-Detection-by-jeevan) |
 | **Spam-Ham Mail Prediction** | Machine learning project for email spam classification. | Python, Scikit-learn | [Repository](https://github.com/alwaysjeevanr/Spam-Ham-Mail-Prediction) |
@@ -50,11 +50,11 @@ I'm a **Full Stack Developer** based in Bengaluru, India, working at **Classroot
 <p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alwaysjeevanr/alwaysjeevanr/main/profile-summary-card-output/github_dark/3-stats.svg">
-  <img src="https://raw.githubusercontent.com/alwaysjeevanr/alwaysjeevanr/main/profile-summary-card-output/github/3-stats.svg" alt="Jeevan R's GitHub stats" width="48%">
+  <img src="https://raw.githubusercontent.com/alwaysjeevanr/alwaysjeevanr/main/profile-summary-card-output/github/3-stats.svg" alt="GitHub statistics card showing Jeevan R's coding activity and contribution summary" width="48%">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alwaysjeevanr/alwaysjeevanr/main/profile-summary-card-output/github_dark/1-repos-per-language.svg">
-  <img src="https://raw.githubusercontent.com/alwaysjeevanr/alwaysjeevanr/main/profile-summary-card-output/github/1-repos-per-language.svg" alt="Jeevan R's most used languages by repository" width="48%">
+  <img src="https://raw.githubusercontent.com/alwaysjeevanr/alwaysjeevanr/main/profile-summary-card-output/github/1-repos-per-language.svg" alt="GitHub chart showing Jeevan R's repositories organized by programming language" width="48%">
 </picture>
 </p>
 
@@ -62,7 +62,7 @@ I'm a **Full Stack Developer** based in Bengaluru, India, working at **Classroot
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alwaysjeevanr/alwaysjeevanr/main/profile-summary-card-output/github_dark/0-profile-details.svg">
-  <img src="https://raw.githubusercontent.com/alwaysjeevanr/alwaysjeevanr/main/profile-summary-card-output/github/0-profile-details.svg" alt="Jeevan R's GitHub profile details and contributions in the current year" width="100%">
+  <img src="https://raw.githubusercontent.com/alwaysjeevanr/alwaysjeevanr/main/profile-summary-card-output/github/0-profile-details.svg" alt="GitHub profile details and contribution activity for Jeevan R" width="100%">
 </picture>
 
 </details>
